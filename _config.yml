@@ -1,0 +1,14 @@
+layout_spectrum: 0.2425458738580346
+typography_spectrum: 0.9707117772195488
+color:
+  brandStrength: 0.8440685304813087
+  lightness: 0.5818648114800453
+  saturation: 0.22937291953712702
+  rhythmicContrast: 0.7033017855137587
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: day one
